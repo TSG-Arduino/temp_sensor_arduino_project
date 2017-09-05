@@ -40,7 +40,7 @@ easy to interpret, and provides a plot of the data.
 **Hardware Process Flowchart** (taken from the
 ENGR114\_Arduino\_IoT\_Project\_Description file)
 
-<img src="./image1.tiff" width="370" height="182" />
+<img src="./image1.jpg" width="370" height="182" />
 
 **Hardware Setup:**
 
